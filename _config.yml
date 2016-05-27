@@ -1,0 +1,14 @@
+layout_spectrum: 0.3254627918358892
+typography_spectrum: 0.055059616919606924
+color:
+  brandStrength: 0.7079515750519931
+  lightness: 0.29553387011401355
+  saturation: 0.6408107697498053
+  rhythmicContrast: 0.8514416797552258
+  brandColors:
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+name: fo-test-hello
